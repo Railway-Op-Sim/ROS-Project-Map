@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.556063"
-     inkscape:cx="484.21387"
-     inkscape:cy="1221.9672"
+     inkscape:zoom="14.928527"
+     inkscape:cx="611.92372"
+     inkscape:cy="1222.3625"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -91,6 +91,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,297)">
+    <path
+       style="opacity:1;vector-effect:none;fill:#81e0ff;fill-opacity:0.423529;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 140,-21.999998 1,-0.999993 h 15 l 1,-1.000019 v -0.999992 l -1,-0.999993 h -20 z"
+       id="path5316"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 153,-29 V -27.000014 -24 c 0,0.945332 0.3045,1.304502 1,2 l 5,5 10,10 4,4 c 0.63879,0.6387867 1,0.9961554 1,2"
+       id="path5143"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 110,-13.000015 v -4.999986 c 0,-1.113069 0.84638,-2.000011 2,-2.000011 h 7 L 123,-20"
@@ -25175,7 +25186,7 @@
          style="font-size:1.05833px;text-align:start;text-anchor:start;stroke-width:0.264582">Sandwell &amp; Dudley</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 210,68.999999 V 42 c 0,-0.880055 -0.3045,-1.304502 -1,-2 L 195,26 175,6 c -0.71701,-0.7170107 -1,-0.9961554 -1,-2 l 0,-12.0000168"
+       d="M 210,68.999999 V 42 c 0,-0.880055 -0.3045,-1.304502 -1,-2 L 195,26 175,6 c -0.71701,-0.7170107 -1,-0.9961554 -1,-2 l 0,-5"
        id="path5162"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -28526,39 +28537,6 @@
          y="1.2215143"
          style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Crewe</tspan></text>
     <path
-       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.480981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 174,-6.9375002 v 10e-6"
-       id="path4537-0-9-8-0-9-8-1-02-3-1-6-4-0-3-8-0-1-7-9-8-2-6-8-1-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:transform-center-y="3.39e-06"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606"
-       inkscape:transform-center-x="3.2995583e-06" />
-    <path
-       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.160327;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 174,-6.9375002 h 0.23958"
-       id="path4537-0-5-7-7-8-3-8-2-3-2-1-6-9-8-2-9-1-3-7-0-2-3-2-5-9-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:transform-center-y="-1.61e-06"
-       inkscape:transform-center-x="-0.1197867"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.264581"
-       x="174.49881"
-       y="-6.715991"
-       id="text4586-1-19-1-34-84-63-8-5-4-4-9-8-8-9-2-5-8-8-8-6-3-6"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606"><tspan
-         sodipodi:role="line"
-         id="tspan4584-6-8-5-0-9-6-5-0-2-4-2-2-5-5-6-7-7-8-7-4-0-3"
-         x="174.49881"
-         y="-6.715991"
-         style="font-size:0.705549px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264581">Hartford</tspan></text>
-    <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 174,1.9999856 c 0,1.203996 0.75457,2.0000119 2,2.0000119 h 27 c 0.90992,0 1.3045,0.3044988 2,0.9999927"
        id="path5508"
@@ -29159,9 +29137,9 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#b2b2b2;stroke-width:0.26458299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 136,-7.0000168 h -1 c -1.11114,0 -2,0.8254711 -2,2 0,1.0470106 -0.68368,2 -2,2"
+       d="m 131,-3.0000168 c 1.31632,0 2,-0.9529894 2,-2 0,-1.1745289 0.88886,-2 2,-2 h 1 23 1 c 0.90933,0 1.3045,-0.3045017 2,-1 l 6,-6.0000002"
        id="path90201"
-       sodipodi:nodetypes="cccc"
+       sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -31719,10 +31697,10 @@
        sodipodi:nodetypes="ccc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 133,-5.0000162 v -3.9999972 c 0,-0.9138704 0.30449,-1.3045086 1,-2.0000116 l 4,-4"
+       d="m 133,-5.0000162 v -3.9999972 c 0,-0.9138704 0.30449,-1.3045086 1,-2.0000116 l 4,-4 1,-1 L 139.99998,-17 141,-18.000025 C 141.68276,-18.682788 141.99616,-19 143,-19 h 18 c 1.34234,0 2,-0.790024 2,-2"
        id="path14909"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="cccccccccc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 23.000003,-1.0000184 10e-6,1e-5"
@@ -32631,15 +32609,16 @@
          style="font-size:1.05832541px;text-align:start;text-anchor:start;stroke-width:0.26458085">Lime Street</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 146,-34.000003 h 5"
+       d="m 146,-34.000003 11,0"
        id="path5485"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 145,-28.000007 -4,-3.999997 c -0.7401,-0.740098 -0.99616,-0.999998 -2,-0.999998 h -5 c -0.96245,0 -1.3045,-0.304502 -2,-1.000001 l -5,-5"
+       d="m 127,-39.000003 5,5 c 0.6955,0.695499 1.03755,1.000001 2,1.000001 h 5 c 1.00384,0 1.2599,0.2599 2,0.999998 l 4,3.999997 C 145.70818,-27.29183 145.99615,-27 147,-27 h 8"
        id="path5487"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccccc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.74999666;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 141.99998,-30.999997 v -9e-6"
@@ -32706,5 +32685,532 @@
          x="136.45058"
          y="-33.406269"
          style="font-size:1.05832541px;text-align:start;text-anchor:start;stroke-width:0.26458085">Moorfields</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 150.99999,-34 H 151"
+       id="path4537-0-9-0-6-3-3-15-5-4-57-9-4-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="7.5528949e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 150.99999,-34 -1e-5,-0.23958"
+       id="path4537-0-5-7-25-4-2-2-23-7-9-7-2-9-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="1.7552093e-05"
+       inkscape:transform-center-y="-0.11978961"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="151.00002"
+       y="-34.514771"
+       id="text4586-1-7-7-5-7-1-0-1-1-75-5-7-3-7"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-7-0-5-7-6-4-4-7-9-9-6-0-6"
+         x="151.00002"
+         y="-34.514771"
+         style="font-size:0.70554888px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Edge Hill</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 151,-34.000003 c 1.26001,0 2,0.74908 2,1.999999 V -29 c 0,1.355323 0.57363,2 2,2 h 4 l 11,0"
+       id="path5081"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 153,-28.504974 v -10e-6"
+       id="path4537-0-9-8-9-4-0-0-5-3-4-9-4-2-1-9-9-8-0-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 153,-28.504974 h -0.23958"
+       id="path4537-0-5-7-7-56-6-0-2-2-6-4-3-7-5-7-2-9-1-8-8-71"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="152.45235"
+       y="-28.186739"
+       id="text4586-1-9-3-3-7-6-1-7-3-3-1-8-0-5-9-5-3-2-0"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-0-6-8-8-7-8-9-7-0-1-1-2-7-02-2-9-3-2"
+         x="152.45235"
+         y="-28.186739"
+         style="font-size:0.70554888px;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Liverpool South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="152.45235"
+       y="-27.629051"
+       id="text4586-1-9-3-3-7-6-1-7-3-3-1-8-0-5-9-5-3-2-0-2"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-0-6-8-8-7-8-9-7-0-1-1-2-7-02-2-9-3-2-6"
+         x="152.45235"
+         y="-27.629051"
+         style="font-size:0.70554888px;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Parkway</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 152.1595,-27 h 1e-5"
+       id="path4537-0-9-8-9-4-0-0-5-3-4-9-4-2-1-9-9-8-0-2-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="5.0000116e-06" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 152.1595,-27 v -0.23958"
+       id="path4537-0-5-7-7-56-6-0-2-2-6-4-3-7-5-7-2-9-1-8-8-71-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="1.0000012e-05"
+       inkscape:transform-center-y="-0.11979" />
+    <path
+       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098105;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 153,-31.000005 v 2e-5"
+       id="path4537-0-9-8-0-9-8-1-02-2-94-5-7-1-5-0-4-6-5-71-7-9-99-1-6-70"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="5e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="-5e-06" />
+    <path
+       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.160327;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 153,-31.000005 h 0.23957"
+       id="path4537-0-5-7-7-8-3-8-2-3-4-6-90-3-2-6-4-4-9-4-3-4-5-0-3-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-0.11979"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-y="-5e-06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109025px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458099"
+       x="153.48605"
+       y="-30.775877"
+       id="text4586-1-19-1-34-84-6-5-0-4-1-6-7-1-4-2-7-4-8-9-8-5-3"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-8-5-0-9-0-0-2-5-6-1-4-9-3-3-5-8-3-6-9-2-0"
+         x="153.48605"
+         y="-30.775877"
+         style="font-size:0.705549px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458099">Mossley Hill</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 156.99999,-27 H 157"
+       id="path4537-0-9-0-6-3-3-15-5-4-57-9-4-0-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="7.5528949e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 156.99999,-27 -1e-5,-0.23958"
+       id="path4537-0-5-7-25-4-2-2-23-7-9-7-2-9-9-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="1.7552093e-05"
+       inkscape:transform-center-y="-0.11978961"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="157.00002"
+       y="-27.443521"
+       id="text4586-1-7-7-5-7-1-0-1-1-75-5-7-3-7-6"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-7-0-5-7-6-4-4-7-9-9-6-0-6-8"
+         x="157.00002"
+         y="-27.443521"
+         style="font-size:0.70554888px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Hunts Cross</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 129.00001,-10 H 129"
+       id="path4537-0-9-0-6-5-42-9-4-9-3-9-3-8-9-4-9-3-0-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-3.1525269e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 129.00001,-10 v 0.23958"
+       id="path4537-0-5-7-25-4-5-8-9-8-2-0-1-8-3-29-3-3-0-3-5-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-8.1525267e-06"
+       inkscape:transform-center-y="0.11978961"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="129"
+       y="-9.1175547"
+       id="text4586-1-7-9-2-40-5-0-8-8-7-3-34-5-9-1-1-3-6-2"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-7-3-3-1-3-6-6-8-3-3-2-0-6-3-9-5-3-2"
+         x="129"
+         y="-9.1175547"
+         style="font-size:0.70554888px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Ellesmere Port</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 135,-12 -1e-5,10e-6"
+       id="path4537-0-9-8-0-9-8-1-02-2-94-5-7-1-5-0-4-6-5-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="5e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 135,-12 0.1694,0.16941"
+       id="path4537-0-5-7-7-8-3-8-2-3-4-6-90-3-2-6-4-4-9-4-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-0.084704999"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-y="0.084705" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="135.29219"
+       y="-11.249421"
+       id="text4586-1-19-1-34-84-6-5-0-4-1-6-7-1-4-2-6-2"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-8-5-0-9-0-0-2-5-6-1-4-9-3-3-9-67"
+         x="135.29219"
+         y="-11.249421"
+         style="font-size:0.70554888px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Helsby</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 148.00001,-19 H 148"
+       id="path4537-0-9-0-6-5-42-9-4-9-3-9-3-8-9-4-9-3-0-8-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-3.1525269e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 148.00001,-19 v 0.23958"
+       id="path4537-0-5-7-25-4-5-8-9-8-2-0-1-8-3-29-3-3-0-3-5-4-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-8.1525267e-06"
+       inkscape:transform-center-y="0.11978961"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="148"
+       y="-18.117554"
+       id="text4586-1-7-9-2-40-5-0-8-8-7-3-34-5-9-1-1-3-6-2-9"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-7-3-3-1-3-6-6-8-3-3-2-0-6-3-9-5-3-2-5"
+         x="148"
+         y="-18.117554"
+         style="font-size:0.70554888px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Frodshom</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 155,-21 c 0.93827,0.93827 0.007,2.000007 -1,2.000007"
+       id="path5290"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 154,-22 -1e-5,-10e-6"
+       id="path4537-0-9-8-0-9-8-1-0-4-0-4-4-3-0-8-4-5-6-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="-5e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="2.9886055e-06" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 154,-22 -0.16941,0.16941"
+       id="path4537-0-5-7-7-8-3-8-2-9-0-4-2-8-2-6-4-2-2-5-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="0.084705"
+       inkscape:transform-center-x="0.084702989"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="153.75328"
+       y="-21.266397"
+       id="text4586-1-19-1-34-8-7-3-6-9-2-0-6-6-7-2-0-7"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-8-5-0-89-3-7-7-4-8-1-5-4-6-2-8-9"
+         x="153.75328"
+         y="-21.266397"
+         style="font-size:0.70554888px;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Runcorn</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 170,-6 -1e-5,-10e-6"
+       id="path4537-0-9-8-0-9-8-1-0-4-0-4-4-3-0-8-4-5-6-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="-5e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="2.9886055e-06" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 170,-6 -0.16941,0.16941"
+       id="path4537-0-5-7-7-8-3-8-2-9-0-4-2-8-2-6-4-2-2-5-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="0.084705"
+       inkscape:transform-center-x="0.084702989"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="169.7533"
+       y="-5.266398"
+       id="text4586-1-19-1-34-8-7-3-6-9-2-0-6-6-7-2-0-1"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-8-5-0-89-3-7-7-4-8-1-5-4-6-2-8-3"
+         x="169.7533"
+         y="-5.266398"
+         style="font-size:0.70554888px;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Winsford</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 167,-9 -1e-5,-10e-6"
+       id="path4537-0-9-8-0-9-8-1-0-4-0-4-4-3-0-8-4-5-6-4-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="-5e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="2.9886055e-06" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 167,-9 -0.16941,0.16941"
+       id="path4537-0-5-7-7-8-3-8-2-9-0-4-2-8-2-6-4-2-2-5-8-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="0.084705"
+       inkscape:transform-center-x="0.084702989"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="166.7533"
+       y="-8.2663975"
+       id="text4586-1-19-1-34-8-7-3-6-9-2-0-6-6-7-2-0-1-6"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-8-5-0-89-3-7-7-4-8-1-5-4-6-2-8-3-9"
+         x="166.7533"
+         y="-8.2663975"
+         style="font-size:0.70554888px;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Hartford</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 164,-12 -1e-5,-10e-6"
+       id="path4537-0-9-8-0-9-8-1-0-4-0-4-4-3-0-8-4-5-6-4-1-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="-5e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="2.9886055e-06" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 164,-12 -0.16941,0.16941"
+       id="path4537-0-5-7-7-8-3-8-2-9-0-4-2-8-2-6-4-2-2-5-8-5-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="0.084705"
+       inkscape:transform-center-x="0.084702989"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="163.7533"
+       y="-11.266397"
+       id="text4586-1-19-1-34-8-7-3-6-9-2-0-6-6-7-2-0-1-6-3"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-8-5-0-89-3-7-7-4-8-1-5-4-6-2-8-3-9-5"
+         x="163.7533"
+         y="-11.266397"
+         style="font-size:0.70554888px;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Acton Bridge</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 164,-11.999992 c -0.66044,-0.660442 -1,-0.996169 -1,-2.000011 V -24.00001 L 163,-33"
+       id="path5390"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 160,-27 h -1e-5"
+       id="path4537-0-9-0-6-5-42-9-4-9-3-9-3-8-9-4-9-3-0-8-3-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-3.1525269e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 160,-27 v 0.23958"
+       id="path4537-0-5-7-25-4-5-8-9-8-2-0-1-8-3-29-3-3-0-3-5-4-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-8.1525267e-06"
+       inkscape:transform-center-y="0.11978961"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="159.99998"
+       y="-26.117556"
+       id="text4586-1-7-9-2-40-5-0-8-8-7-3-34-5-9-1-1-3-6-2-9-2"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-7-3-3-1-3-6-6-8-3-3-2-0-6-3-9-5-3-2-5-4"
+         x="159.99998"
+         y="-26.117556"
+         style="font-size:0.70554888px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Widnes</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 165.99999,-27 H 166"
+       id="path4537-0-9-0-6-3-3-15-5-4-57-9-4-0-9-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="7.5528949e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 165.99999,-27 -1e-5,-0.23958"
+       id="path4537-0-5-7-25-4-2-2-23-7-9-7-2-9-9-5-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="1.7552093e-05"
+       inkscape:transform-center-y="-0.11978961"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="166.00002"
+       y="-27.443512"
+       id="text4586-1-7-7-5-7-1-0-1-1-75-5-7-3-7-6-2"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-7-0-5-7-6-4-4-7-9-9-6-0-6-8-3"
+         x="166.00002"
+         y="-27.443512"
+         style="font-size:0.70554888px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="166.00002"
+       y="-27.992931"
+       id="text4586-1-7-7-5-7-1-0-1-1-75-5-7-3-7-6-2-5"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-7-0-5-7-6-4-4-7-9-9-6-0-6-8-3-9"
+         x="166.00002"
+         y="-27.992931"
+         style="font-size:0.70554888px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Warrington</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 163,-25.00001 V -25"
+       id="path4537-0-9-8-0-9-8-1-02-3-1-6-4-0-3-8-0-1-7-9-8-2-6-8-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="3.39e-06"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="3.2995583e-06" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 163,-25.00001 h 0.23958"
+       id="path4537-0-5-7-7-8-3-8-2-3-2-1-6-9-8-2-9-1-3-7-0-2-3-2-5-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="-1.61e-06"
+       inkscape:transform-center-x="-0.1197867"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="163.49881"
+       y="-24.530365"
+       id="text4586-1-19-1-34-84-63-8-5-4-4-9-8-8-9-2-5-8-8-8-6-3-9"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-8-5-0-9-6-5-0-2-4-2-2-5-5-6-7-7-8-7-4-0-9"
+         x="163.49881"
+         y="-24.530365"
+         style="font-size:0.70554888px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Bank Quay</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109383px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.26458085"
+       x="163.49881"
+       y="-25.070927"
+       id="text4586-1-19-1-34-84-63-8-5-4-4-9-8-8-9-2-5-8-8-8-6-3-9-1"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-6-8-5-0-9-6-5-0-2-4-2-2-5-5-6-7-7-8-7-4-0-9-8"
+         x="163.49881"
+         y="-25.070927"
+         style="font-size:0.70554888px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.26458085">Warrington</tspan></text>
   </g>
 </svg>
