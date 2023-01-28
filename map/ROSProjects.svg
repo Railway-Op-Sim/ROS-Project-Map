@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="835.50001"
-     inkscape:cy="1090"
+     inkscape:zoom="4"
+     inkscape:cx="1059.875"
+     inkscape:cy="2195.75"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -3529,11 +3529,13 @@
          y="280.22018"
          style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Wivelsfield</tspan></text>
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.2499989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 319.00128,288.99977 c 0,-1.29065 -0.84257,-2 -2,-2 H 282.0016"
-       id="path1603-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d065ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 313,287 -30.9984,-2.3e-4"
+       id="path5115" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 319.00128,288.99977 c 0,-1.29065 -0.84257,-2 -2,-2 L 313,287"
+       id="path1603-8" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.2499989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 319.00128,284.99977 c 0,1.15743 -0.70935,2 -1.99999,2"
@@ -5751,20 +5753,6 @@
        inkscape:transform-center-y="0.11978961"
        inkscape:export-xdpi="658.8606"
        inkscape:export-ydpi="658.8606" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.4111px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="303.00278"
-       y="287.88144"
-       id="text4586-1-7-9-2-1-7"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606"
-       transform="scale(0.99999558)"><tspan
-         sodipodi:role="line"
-         id="tspan4584-6-7-3-3-61-4"
-         x="303.00278"
-         y="287.88144"
-         style="font-size:0.705552px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Shoreham-by-Sea</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 290.00154,286.99977 h -10e-6"
@@ -5784,20 +5772,6 @@
        inkscape:transform-center-y="0.11978961"
        inkscape:export-xdpi="658.8606"
        inkscape:export-ydpi="658.8606" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.4111px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="290.00284"
-       y="287.88144"
-       id="text4586-1-7-9-2-1-6"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606"
-       transform="scale(0.99999558)"><tspan
-         sodipodi:role="line"
-         id="tspan4584-6-7-3-3-61-91"
-         x="290.00284"
-         y="287.88144"
-         style="font-size:0.705552px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Worthing</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#22b21d;stroke-width:0.49999779;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 281.00161,284.99978 c 0,1.22664 -0.49999,1.99998 -1.99998,1.99998 h -9.99991"
@@ -36205,7 +36179,7 @@
        id="text6242"><tspan
          sodipodi:role="line"
          id="tspan6240"
-         style="stroke-width:0.5"></tspan></text>
+         style="stroke-width:0.5" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
@@ -36272,5 +36246,89 @@
        inkscape:transform-center-y="-6.6079886e-06"
        inkscape:export-xdpi="658.8606"
        inkscape:export-ydpi="658.8606" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 290,287 h -10e-6"
+       id="path4537-0-0-6-4-2-2-0-4-3-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 290,287 v 0.37358"
+       id="path4537-0-5-4-6-8-7-5-7-1-8-7-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="289.93832"
+       y="288.29599"
+       id="text4586-6-0-6-3-4-1-8-1-66-6"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-9-2-2-5-3-2-5-7-0-1"
+         x="289.93832"
+         y="288.29599"
+         style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264581">Worthing</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 303,287 h -10e-6"
+       id="path4537-0-0-6-4-2-2-0-4-3-2-83"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 303,287 v 0.37358"
+       id="path4537-0-5-4-6-8-7-5-7-1-8-7-43"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="302.93832"
+       y="288.29602"
+       id="text4586-6-0-6-3-4-1-8-1-66-3"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-9-2-2-5-3-2-5-7-0-9"
+         x="302.93832"
+         y="288.29602"
+         style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264581">Shoreham-by-Sea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d065ff;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="297.36453"
+       y="285.71902"
+       id="text4586-5-9-8-3-8-2-7-7-7-24-5-7-2-6-0-0-9-8"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="297.36453"
+         y="285.71902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705549px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;fill:#d065ff;fill-opacity:1;stroke-width:0.264581"
+         id="tspan4902-3-8-5-0-3-7-2-98-5-9-5-8-4-9-1-5">By JamieT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d065ff;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="297.36453"
+       y="285.01477"
+       id="text4586-5-9-8-3-8-2-9-9-7-3-3-9-5-8-7-2"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="297.36453"
+         y="285.01477"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.05833px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:center;text-anchor:middle;fill:#d065ff;fill-opacity:1;stroke-width:0.264581"
+         id="tspan4902-3-8-5-0-1-4-5-5-3-5-1-6-5-60">West Coastway Line (Lancing Panel)</tspan></text>
   </g>
 </svg>
