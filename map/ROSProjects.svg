@@ -52,15 +52,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="1182.75"
-     inkscape:cy="1810.75"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="1094.9549"
+     inkscape:cy="1560.2311"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
@@ -9863,20 +9863,30 @@
          style="font-size:1.05833px;text-align:end;text-anchor:end;stroke-width:0.264582">Biggleswade</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 295,42 V 32 8 c 0,-0.9407103 -0.3045,-1.3045017 -1,-2 l -5,-5 c -0.73534,-0.73534214 -1,-0.99615536 -1,-2 v -2.9922608"
+       d="M 295,32 V 8 c 0,-0.9407103 -0.3045,-1.3045017 -1,-2 l -5,-5 c -0.73534,-0.73534214 -1,-0.99615536 -1,-2 v -2.9922608"
+       id="path7652" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e27ce8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 295,42 V 32"
        id="path4911" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#3b893b;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 295,44 V 42"
        id="path4909" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 304.00103,88.994609 V 77 c 0,-1 -0.30576,-1.304731 -1.00103,-2 l -7,-7 c -0.75834,-0.758345 -1,-0.996155 -1,-2 V 44"
-       id="path27154" />
+       style="fill:none;fill-opacity:1;stroke:#e27ce8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.125, 0.125;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 295,44 V 42"
+       id="path4909-9" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e27ce8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 304,83 0,-6 c 0,-1 -0.30473,-1.30473 -1,-2 l -7,-7 c -0.75834,-0.758343 -1,-0.996155 -1,-2 V 44"
+       id="path27154"
+       sodipodi:nodetypes="cssssc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ff6464;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 304.00103,109.99965 V 89.999646 88.994609"
-       id="path5686" />
+       d="M 304.00103,109.99965 V 89.999646 L 304,83"
+       id="path5686"
+       sodipodi:nodetypes="ccc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.2499989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 357.00056,106.99965 h -1.99998 -1.99999 -0.99999 -3.99996 c -0.88534,0 -1.30449,-0.3045 -1.99998,-1 l -4.99996,-5 c -0.65048,-0.65049 -0.99999,-0.99616 -0.99999,-2.000006"
@@ -24485,11 +24495,13 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
     <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e27ce8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 294,61.999997 c 0.70019,0.700188 0.99999,0.99615 0.99999,1.999986"
+       id="path5324" />
+    <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 294,57.000007 c -1.28256,0 -2.00002,0.899505 -2.00002,1.999986 0,1.033293 0.30452,1.304511 1.00002,2.000011 l 1,0.999993 c 0.70019,0.700188 0.99999,0.99615 0.99999,1.999986"
-       id="path4744"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       d="m 294,57.000007 c -1.28256,0 -2.00002,0.899505 -2.00002,1.999986 0,1.033293 0.30452,1.304511 1.00002,2.000011 l 1,0.999993"
+       id="path4744" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 295,64.99999 V 65"
@@ -24510,20 +24522,6 @@
        inkscape:transform-center-x="-0.1197867"
        inkscape:export-xdpi="658.8606"
        inkscape:export-ydpi="658.8606" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.4111px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="295.50018"
-       y="65.221275"
-       id="text4586-1-19-1-34-84-63-8-5-4-4-9-8-8-9-9"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606"
-       transform="scale(0.9999956)"><tspan
-         sodipodi:role="line"
-         id="tspan4584-6-8-5-0-9-6-5-0-2-4-2-2-5-5-3"
-         x="295.50018"
-         y="65.221275"
-         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Grantham</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 260,70 -10e-6,1e-5"
@@ -24769,7 +24767,11 @@
        d="M 295.08749,44.189105 C 295.25454,43.321632 295.63479,42.365214 296,42"
        id="path4905" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#e27ce8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.125, 0.125;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 295.08749,44.189105 C 295.25454,43.321632 295.63479,42.365214 296,42"
+       id="path4905-5" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e27ce8;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 294.99999,44.999989 c 0,-0.243785 0.032,-0.522417 0.0875,-0.810884"
        id="path4933" />
     <path
@@ -24805,26 +24807,7 @@
          id="tspan4584-6-8-5-0-9-0-27-99-1-1-5-1"
          x="295.50024"
          y="45.221409"
-         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Newark North Gate</tspan></text>
-    <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 293.99999,44.00001 294,44"
-       id="path4537-0-9-8-0-9-8-1-0-4-0-4-0-4-0-2-49-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:transform-center-y="-5e-06"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606" />
-    <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.16032712;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 293.99999,44.00001 -0.1694,-0.16941"
-       id="path4537-0-5-7-7-8-3-8-2-9-0-4-2-4-68-0-4-4-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:transform-center-y="-0.084705"
-       inkscape:transform-center-x="0.084704835"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606" />
+         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582" /></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.48098135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 305,57 h -10e-6"
@@ -33749,6 +33732,35 @@
          x="304.68005"
          y="91.34671"
          style="font-size:1.05833px;text-align:start;text-anchor:start;stroke-width:0.264581">Peterborough</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 295,64.99998 v 1e-5"
+       id="path4537-0-3-0-9-5-69-8-9-7-8-5-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 295,64.99998 h 0.37358"
+       id="path4537-0-5-1-6-1-7-8-7-2-0-8-8-76-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="295.67905"
+       y="65.347038"
+       id="text4586-12-2-6-1-61-6-1-3-3-1-7-1"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-0-6-5-5-3-8-7-2-43-3-4-7"
+         x="295.67905"
+         y="65.347038"
+         style="font-size:1.05833px;text-align:start;text-anchor:start;stroke-width:0.264581">Grantham</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6464;fill-opacity:1;stroke:none;stroke-width:0.264581"
@@ -34807,7 +34819,7 @@
          style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264581">Saxilby</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 293.99999,44.00001 H 294"
+       d="m 293.00533,44.999989 h 10e-6"
        id="path4537-0-08-6-2-5-6-9-3-5-9-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -34817,7 +34829,7 @@
        inkscape:export-ydpi="658.8606" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 293.99999,44.00001 -0.26417,-0.26415"
+       d="m 293.00533,44.999989 -0.26417,-0.26415"
        id="path4537-0-5-0-4-5-7-40-8-8-4-30-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -34828,15 +34840,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
-       x="293.53677"
-       y="43.552334"
+       x="292.54211"
+       y="44.552315"
        id="text4586-5-8-8-9-53-2-6-6-5-0"
        inkscape:export-xdpi="658.8606"
        inkscape:export-ydpi="658.8606"><tspan
          sodipodi:role="line"
          id="tspan4584-8-2-3-7-8-1-1-7-9-6"
-         x="293.53677"
-         y="43.552334"
+         x="292.54211"
+         y="44.552315"
          style="font-size:1.05833px;text-align:end;text-anchor:end;stroke-width:0.264581">Newark Castle</tspan></text>
     <path
        style="vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -36743,6 +36755,45 @@
          y="153.86993"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.05833px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:start;text-anchor:start;fill:#c46401;fill-opacity:1;stroke-width:0.264581"
          id="tspan4902-3-8-5-0-6-8-6-0">Midland Main </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e27ce8;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="296.11258"
+       y="62.268246"
+       id="text4586-5-9-8-3-8-2-1-5-9-0"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="296.11258"
+         y="62.268246"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.05833px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:start;text-anchor:start;fill:#e27ce8;fill-opacity:1;stroke-width:0.264581"
+         id="tspan4902-3-8-5-0-6-8-4-8">(Grantham - Newark)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e27ce8;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="296.11258"
+       y="62.904903"
+       id="text4586-5-9-8-3-8-2-7-7-7-2-1-4-1"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="296.11258"
+         y="62.904903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705549px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#e27ce8;fill-opacity:1;stroke-width:0.264581"
+         id="tspan4902-3-8-5-0-3-7-2-9-7-7-6">By Jamie T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e27ce8;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="296.11258"
+       y="61.484814"
+       id="text4586-5-9-8-3-8-2-1-5-8-8-5"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="296.11258"
+         y="61.484814"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.05833px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:start;text-anchor:start;fill:#e27ce8;fill-opacity:1;stroke-width:0.264581"
+         id="tspan4902-3-8-5-0-6-8-6-0-1">East Coast Main Line</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#776afa;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.125, 0.125;stroke-dashoffset:0;stroke-opacity:1"
        d="M 124,61.008777 V 56.991222"
@@ -37656,5 +37707,38 @@
          x="275.36325"
          y="159.24667"
          style="font-size:1.05833px;text-align:end;text-anchor:end;stroke-width:0.264581">Watford High Street</tspan></text>
+    <path
+       style="fill:none;stroke:#e27ce8;stroke-width:0.5;stroke-dasharray:0.125,0.125;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 294,43.999996 3.99999,-3.999997"
+       id="path7417" />
+    <path
+       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 295.00236,44.999989 v 1e-5"
+       id="path4537-0-3-0-9-5-69-8-9-7-8-5-0-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 295.00236,44.999989 h 0.37358"
+       id="path4537-0-5-1-6-1-7-8-7-2-0-8-8-76-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="295.68143"
+       y="45.347054"
+       id="text4586-12-2-6-1-61-6-1-3-3-1-7-7"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-0-6-5-5-3-8-7-2-43-3-4-74"
+         x="295.68143"
+         y="45.347054"
+         style="font-size:1.05833px;text-align:start;text-anchor:start;stroke-width:0.264581">Newark North Gate</tspan></text>
   </g>
 </svg>
