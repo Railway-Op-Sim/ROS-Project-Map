@@ -85,7 +85,7 @@ Where a line is already featured on the map, but a RailOS project now exists for
 
 Where the line isn't present on the map:
 - Select the `Bezier Curve` (B) tool:
-<img src="img/bezer-line-tool.png" width="100"/>
+<img src="img/bezier-line-tool.png" width="100"/>
 
 - Open the snapping menu (a left facing arrow from in the top right corner).
 - Turn snapping on, and ensure `Grids` is selected.
@@ -95,9 +95,10 @@ Where the line isn't present on the map:
 <img src="img/edit-paths-by-nodes.png" width="100"/>
 
 - Click a node at one end of the curve, and this should make two adjusting bars appear.
-<img src="img/adjustment-bars.png" width="100"/>
+<img src="img/adjustment-bars.png" width="200"/>
 
 - Drag the circles at the ends of the adjustment bars to form the curve correctly. Holding Ctrl will snap them to the correct angles.
+
 <img src="img/correctly-positioned-curves.png", width="400"/>
 
 **Stations**
