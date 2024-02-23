@@ -99,7 +99,7 @@ Where the line isn't present on the map:
 
 - Drag the circles at the ends of the adjustment bars to form the curve correctly. Holding Ctrl will snap them to the correct angles.
 
-<img src="img/correctly-positioned-curves.png" width="400"/>
+<img src="img/correctly-positioned-curves.png" width="600"/>
 
 **Stations**
 
