@@ -48,22 +48,22 @@ Fareham,"Community Project, Community Projects, Fareham, Oxalin, Portsmouth, Sou
 Faversham to Ramsgate,"Community Project, Community Projects, Faversham, Ramsgate, United Kingdom, Xander C",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/04/Faversham-to-Ramsgate.jpg,-
 Fenchurch Street,"Community Project, Community Projects, Daniel Gill, Fenchurch Street, Laindon, London, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2017/09/Fenchurch-Street.jpg,
 Glasgow Central,"Community Project, Community Projects, Glasgow, LemiCandy, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/04/Glasgow-central.jpg,
-Glasgow Suburban,Krizar,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/02/Glasgow_Suburban-1-scaled.jpg,-
-Glasgow Subway,"Community Project, Community Projects, Glasgow, Krizar, United Kingdom",FALSE,,
-Great Western Railway Network,JasonB,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/06/GWR.jpg,
+Glasgow Suburban,Krizar,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/02/Glasgow_Suburban-1-scaled.jpg,-
+Glasgow Subway,"Community Project, Community Projects, Glasgow, Krizar, United Kingdom",FALSE,,Subway
+Great Western Railway Network,JasonB,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/06/GWR.jpg,Map annotated instead of showing the entire network
 "Grove Park, Hildenborough and Ashford","Anthony Sheehy, Ashford, Community Project, Community Projects, Grove Park, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/catalog/community-projects/united-kingdom/grove-park-hildenborough-and-ashford,This project is in 3 sections - map in separate colours
 Guildford,"Community Project, Community Projects, Guildford, United Kingdom, Zac Partridge",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2017/10/Guildford.jpg,-
-Harrow-on-the-Hill,"Community Project, Community Projects, Joshua Coupe, London, Metropolitan Line, Underground, United Kingdom",FALSE,,
-Heathrow,"Community Project, Community Projects, Heathrow, JK, London, Underground, United Kingdom",FALSE,,
+Harrow-on-the-Hill,"Community Project, Community Projects, Joshua Coupe, London, Metropolitan Line, Underground, United Kingdom",FALSE,,LUL
+Heathrow,"Community Project, Community Projects, Heathrow, JK, London, Underground, United Kingdom",FALSE,,LUL
 High Speed 1,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/01/High-Speed-1.jpg,
 Highbury & Islington to Brockley,"Anthony Sheehy, Brockley, Community Project, Community Projects, Highbury &amp; Islington, London, London Overground, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2019/08/Highbury-and-Islington-to-Brockley.jpg,-
 HS2 Demonstration,Daniel Gill,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/09/HS2London.bmp,Future development
-Huddersfield,Daniel Gill,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/03/Huddersfield.jpg,-
+Huddersfield,Daniel Gill,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/03/Huddersfield.jpg,-
 Island Line – Isle of Wight UK,"Community Project, Community Projects, Island Line, Isle of Wight, ROSDevTeam, United Kingdom",TRUE,,
 Jubilee Line,"Community Project, Community Projects, JK, Jubilee Line, London, Underground, United Kingdom",FALSE,,LUL
 King's Cross,"Community Project, Community Projects, King's Cross, ROSDevTeam, UK",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/08/KingsCross-scaled.jpg,-
 Lea Valley Lines,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/03/Lea-Valley.jpg,-
-Leeds and Bradford,Daniel Gill,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/11/LeedsAndBradford-scaled.bmp,-
+Leeds and Bradford,Daniel Gill,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/11/LeedsAndBradford-scaled.bmp,-
 Lewisham,"Community Project, Community Projects, Lewisham, London, Sam Wainwright, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/catalog/community-projects/united-kingdom/lewisham,-
 Lincoln Central,NumberHunter91,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/06/Lincoln-Central-scaled.jpg,
 Liverpool Street to Romford,"Anthony Sheehy, Community Project, Community Projects, Liverpool Street, London, Romford, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2019/05/Liverpool-Street-to-Romford.jpg,-
@@ -77,13 +77,13 @@ LU Metropolitan Line,"Bradley Kempster, Community Project, Community Projects, L
 LU Metropolitan Line (JK),"Community Project, Community Projects, JK, London, Metropolitan Line, Underground, United Kingdom",FALSE,,LUL
 LU Victoria Line,"Community Project, Community Projects, James Underwood, London, Underground, United Kingdom, Victoria Line",FALSE,,LUL
 Manchester Area,RailOSDevTeam,TRUE,,
-Manchester North,"Community Project, Community Projects, Manchester, Ste Woodruff, United Kingdom",FALSE,,
-Merseyrail,mathstrains19,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/11/GB-Merseyrail-Railway-scaled.jpg,
-Mid Hants Railway,Oxalin,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/07/Mid_Hants_Railway.jpg,
-Midland Main Line (South),Oxalin,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/02/Midland-Main-Line-South.jpg,
+Manchester North,"Community Project, Community Projects, Manchester, Ste Woodruff, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/02/Manchester-North-V4-scaled.jpg,Map annotated as very congested in this area
+Merseyrail,mathstrains19,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/11/GB-Merseyrail-Railway-scaled.jpg,
+Mid Hants Railway,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/07/Mid_Hants_Railway.jpg,
+Midland Main Line (South),Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/02/Midland-Main-Line-South.jpg,
 Mole Valley Line,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/08/Mole-Valley-Line.bmp,
 Newbury,"Community Project, Community Projects, Newbury, Simon Banham, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/02/Newbury-Panel-scaled.jpg,-
-Newcastle Central Station,"Community Project, Community Projects, Josco, Newcastle, United Kingdom",FALSE,,
+Newcastle Central Station,"Community Project, Community Projects, Josco, Newcastle, United Kingdom",FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/12/Newcastle-Central-Station2-scaled.jpg,Subset of North East England also by Josco
 Newport (South Wales),"Caspar Gray, Community Project, Community Projects, Newport, United Kingdom, Wales",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/03/Newport-screenshot.png,-
 North Downs Line East,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/08/North-Downs-Line-East.jpg,
 North Downs Line West,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/08/North-Downs-Line-West.bmp,
@@ -93,7 +93,7 @@ North London Line,"Community Project, Community Projects, Krizar, North London L
 Nottingham Trams North,"Community Project, Community Projects, Nottingham, ROSDevTeam, United Kingdom",FALSE,,MISC
 Oxted Line,NiallAW,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/10/Oxted-line.jpg,
 Penistone Line,"Community Project, Community Projects, Daniel Gill, Penistone, United Kingdom",FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/11/PenistoneLine.png,-
-Penzance,"Community Project, Community Projects, Jason B, Penzance, UK",FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/08/Penzance-980x963.jpg,-
+Penzance,"Community Project, Community Projects, Jason B, Penzance, UK",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/08/Penzance-980x963.jpg,-
 Peterborough,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/12/Peterborough.jpg,
 Peterborough PSB,Csaba,TRUE,,
 Plymouth,"Community Project, Community Projects, Jason B, Plymouth, UK, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/08/Plymouth.png,-
@@ -105,7 +105,7 @@ Reading 2015,"Carwyn Thomas, Community Project, Community Projects, Reading, Uni
 Reading 2020,"Bob Rackley, Community Project, Community Projects, Reading, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2013/02/Railway-Image-Reading-2020-scaled.jpg,-
 Romsey & Salisbury,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/05/Romsey-Salisbury.bmp,
 Rotherham and Dearne Valley,"Community Project, Community Projects, ROSDevTeam, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/06/RotherhamAndDearneValley-scaled.jpg,-
-Sheffield,"Community Project, Community Projects, Daniel Gill, Sheffield, United Kingdom",FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2017/09/Sheffield.jpg,Not including this project
+Sheffield,"Community Project, Community Projects, Daniel Gill, Sheffield, United Kingdom",FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2017/09/Sheffield.jpg,"Superseded by Sheffield V2, also by Daniel Gill"
 Sheffield East,Daniel Gill,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/03/SheffieldEast.bmp,-
 Sheffield V2,"Community Project, Community Projects, Daniel Gill, Sheffield, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/09/SheffieldV2.jpg,-
 Shrewsbury,Krizar,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/01/Shrewsbury.jpg,
@@ -121,7 +121,7 @@ Tyne IECC Darlington Workstation,Csaba,TRUE,https://www.railwayoperationsimulato
 Victoria Central (Workstation 1),"Community Project, Community Projects, James Underwood, London Victoria, United Kingdom, Victoria",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/02/Victoria-Central-Workstation-1.jpg,-
 Victoria Central (Workstation 2),"Community Project, Community Projects, James Underwood, London Victoria, United Kingdom, Victoria",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/02/Victoria-Central-Workstation-2.jpg,Parts of this interact with South London and Thameslink
 Victoria SouthEastern,"Bailey Edwards, Community Project, Community Projects, London Victoria, United Kingdom, Victoria",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2019/06/Victoria-South-Eastern-scaled.jpg,-
-Volk's Electric Railway,Mark Jones,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2014/06/Volks.jpg,
+Volk's Electric Railway,Mark Jones,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2014/06/Volks.jpg,Not part of national network
 Wakefield,"Community Project, Community Projects, Daniel Gill, ROSDevTeam, United Kingdom, Wakefield",FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/11/Wakefield.png,-
 Waterloo & City Line,"Community Project, Community Projects, Sam Wainwright, Underground, United Kingdom, Waterloo and City",FALSE,,LUL
 Waterloo Suburban,"Barnes, Community Project, Community Projects, Daniel Gill, United Kingdom, Waterloo, Windsor",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/11/WaterlooSuburban-1-980x386.png,-
