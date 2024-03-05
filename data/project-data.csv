@@ -59,7 +59,7 @@ High Speed 1,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/up
 Highbury & Islington to Brockley,"Anthony Sheehy, Brockley, Community Project, Community Projects, Highbury &amp; Islington, London, London Overground, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2019/08/Highbury-and-Islington-to-Brockley.jpg,-
 HS2 Demonstration,Daniel Gill,FALSE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/09/HS2London.bmp,Future development
 Huddersfield,Daniel Gill,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/03/Huddersfield.jpg,-
-Island Line – Isle of Wight UK,"Community Project, Community Projects, Island Line, Isle of Wight, ROSDevTeam, United Kingdom",TRUE,,
+Island Line – Isle of Wight UK,"Community Project, Community Projects, Island Line, Isle of Wight, ROSDevTeam, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/02/IslandLine.bmp,
 Jubilee Line,"Community Project, Community Projects, JK, Jubilee Line, London, Underground, United Kingdom",FALSE,,LUL
 King's Cross,"Community Project, Community Projects, King's Cross, ROSDevTeam, UK",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/08/KingsCross-scaled.jpg,-
 Lea Valley Lines,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/03/Lea-Valley.jpg,-
@@ -95,11 +95,11 @@ Oxted Line,NiallAW,TRUE,https://www.railwayoperationsimulator.com/wp-content/upl
 Penistone Line,"Community Project, Community Projects, Daniel Gill, Penistone, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/11/PenistoneLine.png,-
 Penzance,"Community Project, Community Projects, Jason B, Penzance, UK",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/08/Penzance-980x963.jpg,-
 Peterborough,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/12/Peterborough.jpg,
-Peterborough PSB,Csaba,TRUE,,
+Peterborough PSB,Csaba,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2024/01/RailwayImage-peterborough-psb-v3-scaled.jpg,
 Plymouth,"Community Project, Community Projects, Jason B, Plymouth, UK, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/08/Plymouth.png,-
 Portsmouth Area,Oxalin,TRUE,https://www.railwayoperationsimulator.com/catalog/community-projects/united-kingdom/portsmouth-area,-
 Portsmouth Direct Line,"Community Project, Community Projects, Oxalin, Portsmouth, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/05/Portsmouth-Direct-Line.bmp,-
-Preston,"Blackpool, Community Project, Community Projects, Craig Weekes, Preston, United Kingdom",TRUE,,
+Preston,"Blackpool, Community Project, Community Projects, Craig Weekes, Preston, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/02/Preston-scaled.jpg,
 Rayners Lane,"Community Project, Community Projects, JK, Rayners Lane, Underground, United Kingdom",FALSE,,LUL
 Reading 2015,"Carwyn Thomas, Community Project, Community Projects, Reading, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2015/06/Reading-2015.jpg,-
 Reading 2020,"Bob Rackley, Community Project, Community Projects, Reading, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2013/02/Railway-Image-Reading-2020-scaled.jpg,-
@@ -110,11 +110,11 @@ Sheffield East,Daniel Gill,TRUE,https://www.railwayoperationsimulator.com/wp-con
 Sheffield V2,"Community Project, Community Projects, Daniel Gill, Sheffield, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/09/SheffieldV2.jpg,-
 Shrewsbury,Krizar,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/01/Shrewsbury.jpg,
 Slough IECC,"Community Project, Community Projects, James Underwood, London, London Paddington, Slough, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/02/Slough-IECC-scaled.jpg,-
-Slough IECC,Csaba,TRUE,,
+Slough IECC,Csaba,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/04/RailwayImage-14-04-2022-16.03.19-slough-IECC-V2-scaled.jpg,
 South London and Thameslink,"Community Project, Community Projects, Daniel Gill, London, Thameslink, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2021/10/SouthLondonAndThameslink-scaled.bmp,-
 South West Main Line,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/02/South-West-Main-Line.jpg,
 Southampton Central,"Community Project, Community Projects, Southampton, United Kingdom, Zac Partridge",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/06/Southampton-Central.jpg,-
-"Sutton, Epsom and Wimbledon",Daniel Gill,TRUE,,
+"Sutton, Epsom and Wimbledon",Daniel Gill,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/01/SuttonEpsomWimbledon.jpg,
 Swanley,Craig Weekes,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/02/Swanley-scaled.jpg,Map annotated as very congested in this area
 Thameslink Core,"Community Project, Community Projects, London, Oxalin, Thameslink, United Kingdom",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/08/Thameslink-Core.jpg,-
 Tyne IECC Darlington Workstation,Csaba,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/05/RailwayImage-10-05-2022-18.46.01-tyne-IECC_darlington-V1-scaled.jpg,
@@ -126,7 +126,7 @@ Wakefield,"Community Project, Community Projects, Daniel Gill, ROSDevTeam, Unite
 Waterloo & City Line,"Community Project, Community Projects, Sam Wainwright, Underground, United Kingdom, Waterloo and City",FALSE,,LUL
 Waterloo Suburban,"Barnes, Community Project, Community Projects, Daniel Gill, United Kingdom, Waterloo, Windsor",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2020/11/WaterlooSuburban-1-980x386.png,-
 WCML Euston to Watford Jn,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/05/WCML-Euston-to-Watford-Junction.jpg,
-Wembley Main Line,Csaba,TRUE,,
+Wembley Main Line,Csaba,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/11/RailwayImage-09-11-2023-13.19.44-Wembley-Main-Line-V1-scaled.jpg,
 West Anglia Main Line,Oxalin,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2022/03/West-Anglia-Main-Line.jpg,-
 West Coastway Line (Lansing Panel),JamieT,TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2023/01/West-Coastway-Line-Lancing-Panel-Thumbnail.jpg,
 West Dulwich to Otford Teynham Sheppey,"Anthony Sheehy, Community Project, Community Projects, Otford, Sheppy, Teynham, United Kingdom, West Dulwich",TRUE,https://www.railwayoperationsimulator.com/wp-content/uploads/2018/03/West-Dulwich-to-Otford-Teynham-Sheppey-scaled.jpg,-
