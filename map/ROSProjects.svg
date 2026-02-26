@@ -6660,9 +6660,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.1"
-     inkscape:cx="1796.5854"
-     inkscape:cy="3249.0244"
+     inkscape:zoom="2.05"
+     inkscape:cx="1772.1951"
+     inkscape:cy="3969.2683"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -10260,12 +10260,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 319.00128,275.99977 c 0,1.17364 -0.8251,2.00002 -1.99999,2.00002 h -13.99987 l -19.99982,-2e-5 c -1.00234,0 -1.99999,0.85482 -1.99999,2"
-       id="path2395-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.480981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 319.00128,271.99978 v -10e-6"
        id="path4537-0-9-8-9-4-0-0-5-3"
@@ -11575,9 +11569,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 281.00161,270.98868 v 14.01109"
-       id="path25569" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#4425df;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 281.00161,270.98868 v 12.01998"
+       id="path25569"
+       sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ffa803;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 283.0016,238.99977 c -1.29757,0 -1.99999,0.70108 -1.99999,1.99999 v 29.98892"
@@ -11877,7 +11872,7 @@
          id="tspan4584-6-7-0-5-7-6-4-4"
          x="293.00284"
          y="277.5329"
-         style="font-size:0.705552px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Faygate</tspan></text>
+         style="font-size:0.705552px;text-align:center;text-anchor:middle;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582" /></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.480981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 281.00161,280.99977 v 0"
@@ -11911,7 +11906,7 @@
          id="tspan4584-6-8-5-0-8-2-4-9"
          x="281.5018"
          y="281.22018"
-         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Horsham</tspan></text>
+         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582" /></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.480981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 281.00161,261.99977 v 0"
@@ -12524,6 +12519,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705552px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#2e2ba7;fill-opacity:1;stroke-width:0.264582"
          id="tspan4902-3-8-5-0-3-7-2-9-4">By Zac Partridge</tspan></text>
     <path
+       style="fill:#65d1ff;stroke:#e13535;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 281.00159,284.99977 v -1.99112 0"
+       id="path8913" />
+    <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.480981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 281.00161,283.99977 v 0"
        id="path4537-0-9-8-0-9-8-1-9-7-9-4-1"
@@ -12556,7 +12555,7 @@
          id="tspan4584-6-8-5-0-8-2-4-9-8"
          x="281.5018"
          y="284.22018"
-         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Arundel</tspan></text>
+         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582" /></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.480981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 315.00132,286.99977 h -1e-5"
@@ -12635,14 +12634,31 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
+       style="vector-effect:none;fill:none;fill-opacity:1;stroke:#e13535;stroke-width:0.499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.125, 0.125;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 281.00161,284.99978 c 0,1.22664 -0.49999,1.99998 -1.99998,1.99998 h -4.99996"
+       id="path2913-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#22b21d;stroke-width:0.499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 279.00163,286.99976 h 2.99997"
        id="path2915"
        inkscape:connector-curvature="0" />
     <path
+       style="fill:none;fill-opacity:1;stroke:#e13535;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.125,0.125;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 279.00163,286.99976 h 2.99997"
+       id="path2915-1"
+       inkscape:connector-curvature="0" />
+    <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#22b21d;stroke-width:0.499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 276.00166,286.99977 c 1.22663,0 1.99996,0.5 1.99996,2"
        id="path2913-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e13535;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.125,0.125;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 276.00168,286.99975 c 1.22663,0 1.99996,0.5 1.99996,2"
+       id="path2913-4-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
@@ -12652,7 +12668,13 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#e13535;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.125,0.125;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 278.00162,288.99977 c 0,-1.22664 0.5,-1.99998 1.99998,-1.99998"
+       id="path2913-4-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e13535;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 278.00164,288.99977 v 1.99999"
        id="path2947"
        inkscape:connector-curvature="0" />
@@ -12688,18 +12710,10 @@
          id="tspan4584-6-8-5-0-8-2-4-9-8-0"
          x="278.5018"
          y="291.22015"
-         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582">Littlehampton</tspan></text>
-    <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 274.00168,286.99977 h 10e-6"
-       id="path4537-0-0-6-4-2-6-3-3-8-7-0-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606" />
+         style="font-size:0.705552px;text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0.264582" /></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 274.00168,286.99977 v -0.37358"
+       d="m 272.0013,286.99965 v -0.37358"
        id="path4537-0-5-4-6-8-7-9-0-0-4-4-9-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -12709,24 +12723,31 @@
        inkscape:transform-center-y="-0.18679" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.4111px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="274.02393"
-       y="286.32562"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="272.02234"
+       y="286.32425"
        id="text4586-6-0-6-9-6-2-8-1-9-4-8-0"
        inkscape:export-xdpi="658.8606"
-       inkscape:export-ydpi="658.8606"
-       transform="scale(0.99999558)"><tspan
+       inkscape:export-ydpi="658.8606"><tspan
          sodipodi:role="line"
          id="tspan4584-9-2-2-4-3-3-6-9-7-1-8-6"
-         x="274.02393"
-         y="286.32562"
-         style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264582">Barnham</tspan></text>
+         x="272.02234"
+         y="286.32425"
+         style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264581">Barnham</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#22b21d;stroke-width:0.499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 270.00133,288.99963 c 0,-1.22664 0.5,-1.99998 1.99998,-1.99998"
        id="path2913-4-9-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 272.0013,286.99965 h 10e-6"
+       id="path4537-0-0-6-4-2-6-3-3-8-7-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2b2b2;stroke-width:0.249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 270.00133,288.99965 v 1.99999"
@@ -12791,6 +12812,58 @@
          y="284.01602"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.05833px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:center;text-anchor:middle;fill:#22b21d;fill-opacity:1;stroke-width:0.264582"
          id="tspan4902-3-8-5-0-1-4-5-5-3-5-1-6-5">Barnham &amp; Ford</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e13535;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="283.08307"
+       y="289.46869"
+       id="text4586-5-9-8-3-8-2-7-7-7-24-5-7-2-6-0-0-9-23"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="283.08307"
+         y="289.46869"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705549px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;fill:#e13535;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         id="tspan4902-3-8-5-0-3-7-2-98-5-9-5-8-4-9-1-0">By Oxalin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e13535;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="283.0806"
+       y="288.76443"
+       id="text4586-5-9-8-3-8-2-9-9-7-3-3-9-5-8-7-9"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="283.0806"
+         y="288.76443"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.05833px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:center;text-anchor:middle;fill:#e13535;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         id="tspan4902-3-8-5-0-1-4-5-5-3-5-1-6-5-9">Littlehampton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4425df;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="285.698"
+       y="276.27185"
+       id="text4586-5-9-8-3-8-2-7-7-7-24-5-7-2-6-0-0-9-23-0"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="285.698"
+         y="276.27185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705549px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;text-anchor:middle;fill:#4425df;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         id="tspan4902-3-8-5-0-3-7-2-98-5-9-5-8-4-9-1-0-9">By Oxalin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4425df;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="285.69553"
+       y="275.5676"
+       id="text4586-5-9-8-3-8-2-9-9-7-3-3-9-5-8-7-9-1"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="285.69553"
+         y="275.5676"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.05833px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';text-align:center;text-anchor:middle;fill:#4425df;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         id="tspan4902-3-8-5-0-1-4-5-5-3-5-1-6-5-9-7">Arun Valley Line</tspan></text>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 259.00143,260.99965 v 1e-5"
@@ -58178,5 +58251,168 @@
          y="209.88373"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705549px;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:end;text-anchor:end;fill:#65d1ff;fill-opacity:1;stroke-width:0.264581"
          id="tspan4902-3-8-5-0-3-7-2-98-5-9-85-8-1">By Oxalin</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 276.00165,286.99977 v -0.37358"
+       id="path4537-0-5-4-6-8-7-9-0-0-4-4-9-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="5.370826e-06"
+       inkscape:transform-center-y="-0.18679" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="276.02271"
+       y="286.32437"
+       id="text4586-6-0-6-9-6-2-8-1-9-4-8-0-5"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-9-2-2-4-3-3-6-9-7-1-8-6-8"
+         x="276.02271"
+         y="286.32437"
+         style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264581">Ford</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 276.00165,286.99977 h 1e-5"
+       id="path4537-0-0-6-4-2-6-3-3-8-7-0-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 292.99999,278.00002 v -0.37358"
+       id="path4537-0-5-4-6-8-7-9-0-0-4-4-9-1-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"
+       inkscape:transform-center-x="5.370826e-06"
+       inkscape:transform-center-y="-0.18679" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="293.02106"
+       y="277.32462"
+       id="text4586-6-0-6-9-6-2-8-1-9-4-8-0-5-0"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-9-2-2-4-3-3-6-9-7-1-8-6-8-0"
+         x="293.02106"
+         y="277.32462"
+         style="font-size:1.05833px;text-align:center;text-anchor:middle;stroke-width:0.264581">Faygate</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 278.00164,290.99976 v 1e-5"
+       id="path4537-0-3-0-9-5-69-8-9-7-6-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 278.0098,290.99018 h 0.37358"
+       id="path4537-0-5-1-6-1-7-8-7-2-0-6-8-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="278.68884"
+       y="291.33585"
+       id="text4586-12-2-6-1-61-6-1-3-9-1-3"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         x="278.68884"
+         y="291.33585"
+         style="font-size:1.05833px;text-align:start;text-anchor:start;stroke-width:0.264581"
+         id="tspan8952">Littlehampton</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 281.00159,284.00421 v 10e-6"
+       id="path4537-0-3-0-9-5-69-8-9-7-6-1-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 281.00975,283.99463 h 0.37358"
+       id="path4537-0-5-1-6-1-7-8-7-2-0-6-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="281.68878"
+       y="284.3403"
+       id="text4586-12-2-6-1-61-6-1-3-9-1-5"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-0-6-5-5-3-8-7-2-4-6-9"
+         x="281.68878"
+         y="284.3403"
+         style="font-size:1.05833px;text-align:start;text-anchor:start;stroke-width:0.264581">Arundel</tspan></text>
+    <path
+       style="fill:#65d1ff;stroke:#4425df;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 303.00001,278.00002 H 283"
+       id="path8981" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 280.99345,281.00935 v 1e-5"
+       id="path4537-0-3-0-9-5-69-8-9-7-6-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 281.00161,280.99977 h 0.37358"
+       id="path4537-0-5-1-6-1-7-8-7-2-0-6-8-60"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264581"
+       x="281.68066"
+       y="281.34543"
+       id="text4586-12-2-6-1-61-6-1-3-9-1-53"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606"><tspan
+         sodipodi:role="line"
+         id="tspan4584-0-6-5-5-3-8-7-2-4-6-2"
+         x="281.68066"
+         y="281.34543"
+         style="font-size:1.05833px;text-align:start;text-anchor:start;stroke-width:0.264581">Horsham</tspan></text>
+    <path
+       style="fill:none;stroke:#4425df;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 282.99999,278.00001 c -1.42565,1e-5 -1.9984,0.53351 -1.9984,1.99839 v 0"
+       id="path9233"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#b2b2b2;stroke-width:0.25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 303,278.00001 14.00128,-2.4e-4 c 1.28647,0 1.99998,-0.71516 1.99998,-2.00001"
+       id="path9289"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.749997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 292.99999,278.00002 H 293"
+       id="path4537-0-0-6-4-2-6-3-3-8-7-0-8-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="658.8606"
+       inkscape:export-ydpi="658.8606" />
   </g>
 </svg>
